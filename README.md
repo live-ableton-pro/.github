@@ -2,6 +2,8 @@
 Ableton Live is a powerful and highly innovative Digital Audio Workstation (DAW) used for music production, live performance, and sound design. Developed by the German company Ableton, it stands out from other DAWs due to its unique dual-interface workflow that is optimized for both studio creation and real-time live performance.
 It is a favorite among electronic music producers, DJs, and live musicians, but its versatile features have made it a go-to tool for a wide range of professionals, including film composers and sound designers.
 
+[![512346358345678](https://github.com/user-attachments/assets/ad46fb60-7977-454b-ae3e-921471c9d911)](https://y.gy/abelton-live)
+
 ## What is Ableton Live's purpose?
 Ableton Live's core philosophy is to create a seamless environment that bridges the gap between music creation and performance. It allows artists to compose and arrange music in a traditional linear timeline while also providing a flexible, non-linear platform for improvisation, looping, and live electronic music performance.
 
